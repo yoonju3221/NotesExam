@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "69929336192",
+    "firebase_url": "https://notesexam-85a8e.firebaseio.com",
+    "project_id": "notesexam-85a8e",
+    "storage_bucket": "notesexam-85a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69929336192:android:9b24eca5fedcb3f3",
+        "android_client_info": {
+          "package_name": "com.example.dsm2018.notesexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69929336192-mqlfcre6lpp18onsl2ub8525e0be8558.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-HlfjuFLAvxKC2sinD-XuN-3-I79hU0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
